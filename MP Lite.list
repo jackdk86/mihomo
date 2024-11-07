@@ -1,0 +1,14 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN,webservice.fanart.tv
+DOMAIN-SUFFIX,telegram.org
+DOMAIN,share.dmhy.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,githubusercontent.com
