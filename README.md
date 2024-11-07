@@ -1,2 +1,2 @@
 # mihomo
-mihomo 配置文件
+MihomoTProxy配置
