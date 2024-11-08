@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,1e100
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
