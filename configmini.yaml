@@ -154,8 +154,8 @@ rules:
   - RULE-SET,telegram_domain,📲 Telegram
   - RULE-SET,netflix_domain,📀 流媒体
   - RULE-SET,geolocation-!cn,♻️ 自动选择
-  - RULE-SET,cn_ip,♻️ 自动选择
-  - MATCH,🐟 漏网之鱼
+  - RULE-SET,cn_ip,🌈 直连
+  - MATCH,🌈 直连
   
 rule-anchor:
   ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: mrs}
