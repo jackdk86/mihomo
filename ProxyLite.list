@@ -2,7 +2,9 @@
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,speed5.ntu.edu.tw
 DOMAIN-SUFFIX,fast.com
-
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,twitch.tv
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
