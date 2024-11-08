@@ -1,5 +1,7 @@
 # 代理补充列表
 DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,speed5.ntu.edu.tw
+DOMAIN-SUFFIX,fast.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
