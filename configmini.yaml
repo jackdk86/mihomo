@@ -154,6 +154,8 @@ rules:
   - RULE-SET,telegram_domain,📲 Telegram
   - RULE-SET,netflix_domain,📀 流媒体
   - RULE-SET,geolocation-!cn,♻️ 自动选择
+  - RULE-SET,netflix_ip,📀 流媒体,no-resolve
+  - RULE-SET,telegram_ip,📲 Telegram,no-resolve
   - RULE-SET,cn_ip,🌈 直连
   - MATCH,🌈 直连
   
