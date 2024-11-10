@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,dbankcdn.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
