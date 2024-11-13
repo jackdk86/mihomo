@@ -7,6 +7,12 @@ DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,instagram.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
