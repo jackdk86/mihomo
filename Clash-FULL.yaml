@@ -157,6 +157,7 @@ proxy-groups:
   - {name: ♻️ 台日新美-自动, hidden: true,  type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新|SG|台|台湾|TW|韩|KR|日|JP|美|USA))^((?!(港)).)*$"}
   - {name: ♻️ 其它-自动, hidden: true,  type: url-test, include-all: true, tolerance: 20, interval: 150, filter: "^((?!(港|台湾|日本|美国|新加坡|超时|直连)).)*$"}
   - {name: 🐸 手动切换, type: select, include-all: true, filter: "^((?!(直连|剩余|到期|官网|异常|超时|失败|永久)).)*$"}
+  - {name: 🎥 奈飞节点,type: select, include-all: true, filter: "(?i)NF|奈飞|解锁|Netflix|NETFLIX|Media"}
 rules:
   - RULE-SET,mp,🐈‍⬛ MoviePilot
   - RULE-SET,private_domain,🔜 直连
