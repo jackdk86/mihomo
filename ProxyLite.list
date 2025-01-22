@@ -13,6 +13,11 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,emotn.com
+DOMAIN-SUFFIX,keeflys.com
+DOMAIN-SUFFIX,weesunday.com
+DOMAIN-SUFFIX,vercel.app
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
