@@ -8,6 +8,8 @@ DOMAIN,webservice.fanart.tv
 DOMAIN-SUFFIX,telegram.org
 DOMAIN,share.dmhy.org
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,nyaa.si
