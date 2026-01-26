@@ -1,4 +1,7 @@
 # >>> PT 站点 Tracker & 主站 (Direct)
+DOMAIN,tracker01.ilovelemonhd.me
+DOMAIN,tracker.pterclub.net
+DOMAIN,t.ubits.club
 # Pterclub
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pterclub.org
@@ -8,14 +11,12 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.co
 DOMAIN-SUFFIX,m-team.la
 # 其他主流站
-DOMAIN-SUFFIX,tracker.pterclub.net
+DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,ilovelemonhd.me
 DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,tracker01,ilove
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,haidan.video
-DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,pterclub.net
