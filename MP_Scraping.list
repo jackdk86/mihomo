@@ -1,22 +1,39 @@
-# >>> MoviePilot 元数据与刮削 (Proxy)
-DOMAIN-SUFFIX,themoviedb.org
+# >>> MoviePilot 元数据与刮削 (核心 API)
+DOMAIN-KEYWORD,tmdb
+DOMAIN-KEYWORD,themoviedb
 DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,omdbapi.com
+
+# >>> MoviePilot 图片/海报 CDN (解决海报裂图关键)
+DOMAIN,tmdb.org
+DOMAIN,image.tmdb.org
+DOMAIN,images.tmdb.org
+DOMAIN,themoviedb.org
+DOMAIN,assets.tmdb.org
+DOMAIN-SUFFIX,tvtrackers.com
+DOMAIN-SUFFIX,thetvdb.info
+DOMAIN-SUFFIX,moviemaze.de
+
+# >>> MoviePilot 辅助功能 (GitHub/消息通知/Bangumi)
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,api.github.com
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,xdaforums.com
-DOMAIN,share.dmhy.org
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+
+# >>> MoviePilot 常用索引/资源站 (解决索引慢、同步卡顿)
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,nyaa.si
-DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,pterclub.com
-
-
+DOMAIN-SUFFIX,share.dmhy.org
+DOMAIN-SUFFIX,animetosho.org
+DOMAIN-SUFFIX,raws.dev
