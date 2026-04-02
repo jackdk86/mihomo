@@ -4,6 +4,7 @@ DOMAIN,tracker.pterclub.net
 DOMAIN,t.ubits.club
 # Pterclub
 DOMAIN-SUFFIX,pterclub.org
+DOMAIN-SUFFIX,pterclub.net
 # M-Team
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,m-team.cc
@@ -17,7 +18,6 @@ DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,ubits.club
-DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,springsunday.net
