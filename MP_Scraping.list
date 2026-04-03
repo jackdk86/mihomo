@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
 
 # >>> MoviePilot 常用索引/资源站 (解决索引慢、同步卡顿)
-DOMAIN-SUFFIX,mikanani.me
+DOMAIN,mikanani.me
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,share.dmhy.org
