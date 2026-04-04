@@ -1,5 +1,9 @@
 # >>> PT 站点 & Tracker (Direct 建议)
 
+# --- 其它直连域名 ---
+
+DOMAIN,mikanime.tv
+
 # --- 核心/大站补充 ---
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
