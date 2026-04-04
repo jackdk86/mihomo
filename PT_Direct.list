@@ -2,7 +2,7 @@
 
 # --- 其它直连域名 ---
 
-DOMAIN,mikanime.tv
+DOMAIN-SUFFIX,mikanime.tv
 
 # --- 核心/大站补充 ---
 DOMAIN-SUFFIX,m-team.cc
